@@ -1,9 +1,0 @@
-// # Objects: Wrapper
-// -----------------------------------------------------------------------------
-
-.o-wrapper {
-	@include clearfix();
-	margin-right: auto;
-	margin-left:  auto;
-	max-width: $wrapper-width;
-}
