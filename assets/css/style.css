@@ -429,7 +429,7 @@ img[width], img[height] {
 
 @media screen and (min-width: 1400px) {
   .c-navigation__link {
-    max-width: 70%;
+    max-width: 75%;
   }
 }
 
