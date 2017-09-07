@@ -433,6 +433,12 @@ img[width], img[height] {
   }
 }
 
+@media screen and (min-width: 1800px) {
+  .c-navigation__link {
+    max-width: 65%;
+  }
+}
+
 
 @media screen and (min-width: 970px) {
   .u-hidden-large {
