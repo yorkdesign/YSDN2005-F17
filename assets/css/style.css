@@ -912,3 +912,9 @@ img[width], img[height] {
   width: auto !important;
   max-width: none !important;
 }
+
+
+.underline {
+    text-decoration: underline;
+    font-style: italic;
+}
