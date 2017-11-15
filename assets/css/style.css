@@ -918,3 +918,7 @@ img[width], img[height] {
     text-decoration: underline;
     font-style: italic;
 }
+
+.red {
+    color: red;
+}
